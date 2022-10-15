@@ -14,4 +14,4 @@ let mumberC = console.log(student.length);
 let primeraLetraName = console.log(name.charAt(0));
 let ultimaLetAp = console.log(lastName.charAt(6));
 let eliminarSpaces = console.log(student.trim());
-let ConsultarName = console.log(student.includes(name));
+let consultarName = console.log(student.includes(name));
